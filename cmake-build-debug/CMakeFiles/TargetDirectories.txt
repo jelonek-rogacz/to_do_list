@@ -1,3 +1,0 @@
-C:/Users/beata/CLionProjects/todoo/cmake-build-debug/CMakeFiles/todoo.dir
-C:/Users/beata/CLionProjects/todoo/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/beata/CLionProjects/todoo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
